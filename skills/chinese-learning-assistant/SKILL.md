@@ -708,11 +708,9 @@ HSK4級レベルから実践的な流暢さを目指す中国語学習者のた�
 
 より詳細な情報は、`references/` ディレクトリの以下のファイルを参照してください：
 
-- **practical-usage-guide.md**: 場面別実用表現集
-- **natural-expressions.md**: 自然な表現への書き換えガイド
-- **common-patterns.md**: SNS/口語でよく使うパターン
-- **composition-guide.md**: 流暢な作文のテクニック
-- **search-strategies.md**: Web検索での用例探しの詳細ガイド
+- **expressions-guide.md**: 教科書 vs ネイティブ表現、カジュアル⇄フォーマル変換
+- **composition-guide.md**: 流暢な作文のテクニック、よくある間違いパターン
+- **search-guide.md**: Web検索での用例探し戦略
 
 ---
 
